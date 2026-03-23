@@ -11,7 +11,6 @@
 | 개발 기간 | 2023.03 ~ 2023.06 |
 | 팀 구성 | 3인 팀프로젝트 |
 | 담당 역할 | 기획/전체 조율, 프론트엔드 개발 |
-| 원본 레포 | [KeyWaveTree/FCS-Detector](https://github.com/KeyWaveTree/FCS-Detector) |
 
 <br>
 
